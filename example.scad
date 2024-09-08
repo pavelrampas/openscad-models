@@ -6,7 +6,7 @@
  * License: CC BY-SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0/]
  * Link: https://github.com/
  *
- * OpenSCAD version: 2019.05
+ * OpenSCAD version: 2021.01
  *
  * Instructions:
  * Set up parameters, render and print.
@@ -24,6 +24,9 @@ $fn = $preview ? 15 : 90;
 
 sphereRadius = 5;
 cubeSize = 10;
+
+// Parameters that don't need to be changed
+//------------------------------------------------------------------------------
 
 // Code
 //------------------------------------------------------------------------------
