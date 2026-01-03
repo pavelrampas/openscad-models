@@ -2,7 +2,7 @@
  * Plunge Router Ruler (Bosch POF 1400 ACE)
  *
  * Author: Pavel Rampas
- * Version: 1.0.0 (Changelog is at the bottom)
+ * Version: 1.1.0 (Changelog is at the bottom)
  * License: CC BY-SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0/]
  * Link: https://github.com/pavelrampas/openscad-models
  *
