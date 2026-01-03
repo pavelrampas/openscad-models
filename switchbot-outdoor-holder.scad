@@ -1,5 +1,5 @@
 /*
- * SwitchBot Indoor/Outdoor Thermo-Hygrometer
+ * SwitchBot Indoor/Outdoor Thermo-Hygrometer Holder
  *
  * Author: Pavel Rampas
  * Version: 1.0.0 (Changelog is at the bottom)
