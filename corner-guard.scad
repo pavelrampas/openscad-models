@@ -1,5 +1,5 @@
 /*
- * Corner Gueard
+ * Corner Guard
  *
  * Author: Pavel Rampas
  * Version: 1.0.0 (Changelog is at the bottom)
